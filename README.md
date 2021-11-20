@@ -5,3 +5,4 @@ Coding Platform: JS, Node, NPM.
 Program: Visual Studio Code
 ```
 ## Funni Gru Text lol
+yes this is made in js
