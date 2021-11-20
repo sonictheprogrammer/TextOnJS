@@ -1,6 +1,6 @@
 # TextOnJS Credits to coding
 ```
-Version 0.0.0
+Version 1.0.0
 Coding Platform: JS, Node, NPM.
 Program: Visual Studio Code
 ```
